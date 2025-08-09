@@ -1,0 +1,19 @@
+# Guía de Identificación en el Proceso de Inteligencia
+
+## Paso 1: Recolección
+- Usar MISP para importar eventos y IoCs de fuentes confiables.
+- Consultar AIS y boletines ISAC.
+- Revisar fuentes OSINT (Shodan, CISA, CERT).
+
+## Paso 2: Análisis
+- Clasificar amenazas por **Impacto** y **Probabilidad**.
+- Relacionar con el **Common Operational Picture** (infraestructura afectada, proveedores implicados).
+- Identificar motivaciones y capacidades del adversario.
+
+## Paso 3: Registro
+- Documentar en formato STIX/TAXII.
+- Guardar en `/procesos/Proceso_Registro.md`.
+
+## Paso 4: Difusión
+- Preparar boletín usando `/boletines/Boletin_Inteligencia_Semanal_Template.md`.
+- Enviar a los destinatarios según clasificación de información.
