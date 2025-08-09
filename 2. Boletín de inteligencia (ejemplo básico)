@@ -1,0 +1,19 @@
+# Boletín de Inteligencia Cibernética – Semana 32/2025
+
+**Fecha:** 09/08/2025  
+**Fuente:** MISP + AIS + ISAC
+
+## 1. Resumen de amenazas
+- CVE-2025-12345 – Vulnerabilidad crítica en Apache Struts (CVSS 9.8)
+- Campaña de phishing dirigida a proveedores del sector energético en LATAM.
+
+## 2. Indicadores de compromiso (IoC)
+- IP maliciosa: 192.168.100.45
+- Hash SHA256: 12ab34cd...
+
+## 3. Acciones recomendadas
+- Parchear sistemas vulnerables antes del 15/08/2025.
+- Implementar reglas de firewall para bloquear IP indicadas.
+- Difundir alerta a todos los responsables de infraestructura.
+
+**Clasificación:** CONFIDENCIAL – Difusión limitada.
