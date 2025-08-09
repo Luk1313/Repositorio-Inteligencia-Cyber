@@ -1,10 +1,10 @@
-# 🛡️ Guía de Identificación y Gestión de Inteligencia Cibernética
+#  Guía de Identificación y Gestión de Inteligencia Cibernética
 
 Este documento reúne en un solo módulo toda la información necesaria para estandarizar y ejecutar un **proceso de inteligencia cibernética** en equipos de seguridad, desde la recolección hasta la difusión de inteligencia, incluyendo plantillas y referencias.
 
 ---
 
-## 📌 Objetivos del Proyecto
+##  Objetivos del Proyecto
 - Estandarizar la **recolección de indicadores de compromiso (IoCs)**.
 - Centralizar la información en un **repositorio estructurado y versionado**.
 - Facilitar la **difusión segura** de inteligencia a equipos internos y externos.
@@ -12,7 +12,7 @@ Este documento reúne en un solo módulo toda la información necesaria para est
 
 ---
 
-## 🗂️ Estructura Recomendada
+##  Estructura Recomendada
 
 
 
